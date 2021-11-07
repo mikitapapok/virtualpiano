@@ -8,6 +8,8 @@
 ## Usage
     You can click on keys with your mouse or using your keyboard. You can also enter 
     full screen mode clicking square button on the top right of your display.
+## Screenshot
+![img.png](img.png)
 ## Links
 [Source code](https://github.com/mikitapapok/virtualpiano/tree/piano)
 <br/>
